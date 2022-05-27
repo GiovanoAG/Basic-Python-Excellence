@@ -1,2 +1,5 @@
-# Capstone-Project-Module-1
-Capstone Project Module terkait pembuatan aplikasi Data Pasien Rumah Sakit Purwadhika JCDS 1602 menggunakan Python
+# Basic Python Exercise
+
+Purwadhika Hospital JCDS 1602 Patient Data application by implementing basic python, math operations, looping functions and etc.
+
+More about this project, the application can be used to display data, add data, delete data, update data.
